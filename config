@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "dohuyhoang"]
+	url = https://github.com/dovanmong888/dovanmong.gitH.io.git
+	fetch = +refs/heads/*:refs/remotes/dohuyhoang/*
